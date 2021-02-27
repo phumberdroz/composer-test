@@ -1,0 +1,12 @@
+{
+    "name": "phumberdroz/composer-test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Humberdroz",
+            "email": "p.humberdroz@gmail.com"
+        }
+    ],
+    "require": {}
+}
